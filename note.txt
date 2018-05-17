@@ -1,3 +1,0 @@
-file:///C:/Users/user/Downloads/Unconfirmed%20728358.crdownload
-https://netix.dl.sourceforge.net/project/lam/LAM/6.3/ldap-account-manager-6.3.tar.bz2
-http://prdownloads.sourceforge.net/lam/ldap-account-manager-6.3.tar.bz2?download
